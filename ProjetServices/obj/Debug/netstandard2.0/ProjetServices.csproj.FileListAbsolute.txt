@@ -1,0 +1,17 @@
+/Users/yannis/Projects/ProjetServices/ProjetServices/bin/Debug/netstandard2.0/ProjetServices.deps.json
+/Users/yannis/Projects/ProjetServices/ProjetServices/bin/Debug/netstandard2.0/ProjetServices.dll
+/Users/yannis/Projects/ProjetServices/ProjetServices/bin/Debug/netstandard2.0/ref/ProjetServices.dll
+/Users/yannis/Projects/ProjetServices/ProjetServices/bin/Debug/netstandard2.0/ProjetServices.pdb
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.csproj.AssemblyReference.cache
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.AssemblyInfoInputs.cache
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.AssemblyInfo.cs
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.csproj.CoreCompileInputs.cache
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.dll
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ref/ProjetServices.dll
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/ProjetServices.pdb
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/SignUp.xaml.g.cs
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/Home.xaml.g.cs
+/Users/yannis/Projects/ProjetServices/ProjetServices/obj/Debug/netstandard2.0/SignIn.xaml.g.cs

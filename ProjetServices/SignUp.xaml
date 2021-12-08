@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ProjetServices.SignUp"
+    BackgroundColor="#495057">
+    <ContentPage.Content>
+        <StackLayout Padding="30" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+            <Image Source="Logo/Logo.png" WidthRequest="180" HeightRequest="180"></Image>
+            <Entry x:Name="UserNewName" Placeholder="Nom" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="UserNewSurname" Placeholder="Prénom" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="UserNewEmail" Placeholder="Email" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="UserNewPassword" Placeholder="Password"  IsPassword="True" PlaceholderColor="Gray"></Entry>
+            <Button
+                VerticalOptions="Center"
+                Text="S'enregistrer"
+                TextColor="white"
+                BackgroundColor="Transparent"
+                BorderColor="#1C9199"
+                BorderWidth="1.5"
+                CornerRadius="20"
+                Margin="20"
+                Clicked="Button_Clicked"
+                ></Button>
+                <Label HorizontalOptions="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                             <Span Text="Vous avez déja un compte? " TextColor="#1C9199"/>
+                            <Span Text="Se connecter" TextColor="#1C9199" FontAttributes="Bold" TextDecorations="Underline"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                    </Label.GestureRecognizers>
+                </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
